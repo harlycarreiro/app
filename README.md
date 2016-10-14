@@ -10,3 +10,4 @@
 * Addah - addahregina@gmail.com
 * Fernando Brito - fernandoasbrito@gmail.com
 * Márcio - marciovsantos@gmail.com
+* Harly - harlycarreiro@gmail.com
