@@ -1,6 +1,3 @@
-# app
-alterado por william
-alterado 
 Fernando - fernando88to@gmail.com
 
 dantas@uft.edu.br
