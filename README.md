@@ -10,3 +10,4 @@
 * Fabricio - fabricio@gmail
 * *Paulo Canedo* - paulocanedo@gmail.com
 * Addah - addahregina@gmail.com
+* Fernando Brito - fernandoasbrito@gmail.com
