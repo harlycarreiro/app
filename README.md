@@ -13,4 +13,4 @@ Rene Dettenborn - renedet@gmail.com
 
 Joziane Gonçalves - jozianepgoncalves@gmail.com
 
-
+_Paulo Canedo_ - paulocanedo@gmail.com
