@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# app
-
-Fernando - fernando88to@gmail.com
-Rene Dettenborn - renedet@gmail.com
-=======
 * Fernando - fernando88to@gmail.com
 * dantas@uft.edu.br - Washington Dantas
 * Fernando - fernando88to@gmail.com
@@ -11,8 +5,9 @@ Rene Dettenborn - renedet@gmail.com
 * alterado por william oiwilliam@gmail.com
 * Rene Dettenborn - renedet@gmail.com
 * Thell	- thellsam@hotmail.com
- Joziane Gonçalves - jozianepgoncalves@gmail.com
+* Joziane Gonçalves - jozianepgoncalves@gmail.com
 * Fabricio - fabricio@gmail
-*Paulo Canedo* - paulocanedo@gmail.com
+* *Paulo Canedo* - paulocanedo@gmail.com
 * Addah - addahregina@gmail.com
->>>>>>> 636ec3bcb812e9746b64f71fd36565a48b3592b7
+* Fernando Brito - fernandoasbrito@gmail.com
+
