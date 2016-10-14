@@ -6,7 +6,7 @@
 * Rene Dettenborn - renedet@gmail.com:
 * Rene Dettenborn - renedet@gmail.com
 * Thell	- thellsam@hotmail.com
- Joziane Gonçalves - jozianepgoncalves@gmail.com
+* Joziane Gonçalves - jozianepgoncalves@gmail.com
 * Fabricio - fabricio@gmail
 * *Paulo Canedo* - paulocanedo@gmail.com
 * Addah - addahregina@gmail.com
