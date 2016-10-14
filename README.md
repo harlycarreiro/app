@@ -8,5 +8,5 @@
 * Thell	- thellsam@hotmail.com
  Joziane Gonçalves - jozianepgoncalves@gmail.com
 * Fabricio - fabricio@gmail
-*Paulo Canedo* - paulocanedo@gmail.com
+* *Paulo Canedo* - paulocanedo@gmail.com
 * Addah - addahregina@gmail.com
