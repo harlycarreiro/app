@@ -1,0 +1,15 @@
+diff --git a/README.md b/README.md
+index 100bea6..cab44b1 100644
+--- a/README.md
++++ b/README.md
+@@ -1,3 +1,8 @@
+ # app
+ 
+-alterado por william
+\ No newline at end of file
++Leitura!
++https://git-scm.com/book/pt-br/v1
++https://atlassian.com/git/articles/git-team-workflows-merge-or-rebase/
++https://randyfay.com/content/rebase-workflow-git
++https://randyfay.com/node/89
++http://reinh.com/blog/2009/03/02/a-git-workflow-for-agile-teams.html
