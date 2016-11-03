@@ -1,6 +1,5 @@
-* Fernando - fernando88to@gmail.com
+﻿* Fernando - fernando88to@gmail.com
 * dantas@uft.edu.br - Washington Dantas
-* Fernando - fernando88to@gmail.com
 * Angelo Stacciarini Seraphin - astacciarini@gmail.com 
 * alterado por william oiwilliam@gmail.com
 * Angelo Stacciarini Seraphin - astacciarini@gmail.com 
